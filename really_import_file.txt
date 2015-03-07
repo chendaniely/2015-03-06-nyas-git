@@ -4,3 +4,4 @@ I'm adding a file from my computer and i'm going to use this file to push to git
 
 And i'm going to create a new line in this file on my computer
 
+I added another important line.
